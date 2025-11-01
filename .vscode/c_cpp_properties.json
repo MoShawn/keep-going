@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "gcc",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                "-g"
+            ]
+        }
+    ],
+    "version": 4
+}
